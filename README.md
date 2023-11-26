@@ -1,2 +1,4 @@
 # Credit_Card_Fraud_Detection
-training and testing of data using logical regression
+based on logical regression of data it can be used for 
+training and testing of the data for Machine learning.
+
